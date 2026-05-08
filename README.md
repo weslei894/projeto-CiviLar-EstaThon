@@ -32,4 +32,10 @@ Foco: Mobile (iOS e Android)
 
 📈 Estratégia de CrescimentoRecrutamento: Contato direto com prestadores locais.Ativação: Lançamento para solicitantes após base de serviços formada.Monetização (Fase 2): Destaque de perfil, selos premium e anúncios de negócios locais.
 
-👥 Equipe & CréditosDesenvolvido com foco em impacto social e inovação urbana durante o EstaThon.
+👥 Equipe & Créditos
+
+Equipe: Weslei, Laura, Laleska, Kauan torezani.
+
+Professor orientador: Renan Bezerra.
+
+Desenvolvido com foco em impacto social e inovação urbana durante o EstaThon.
