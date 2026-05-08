@@ -14,7 +14,7 @@ Muitos moradores possuem habilidades práticas (pedreiros, eletricistas, diarist
 🛠️ Funcionalidades Planejadas 
 (MVP)👤 Autenticação & PerfilCadastro de usuários e perfis públicos.
 Validação de Segurança: Foto obrigatória, telefone via SMS e validação de documentos pela equipe CiviLar.
-🔍 DescobertaListagem de profissionais por bairro.Filtros por categoria de serviço e busca por localização.
+🔍 DescobertaListagem de profissionais por bairro. Filtros por categoria de serviço e busca por localização.
 💬 Comunicação & ConfiançaContato direto entre vizinhos.Sistema de avaliações, feedbacks e histórico de serviços prestados.
 
 🎨 Identidade Visual
