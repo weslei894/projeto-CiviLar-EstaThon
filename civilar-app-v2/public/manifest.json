@@ -1,0 +1,16 @@
+{
+  "name": "CiviLar - O bairro resolve o bairro",
+  "short_name": "CiviLar",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#162032",
+  "theme_color": "#162032",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo-civilar.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
