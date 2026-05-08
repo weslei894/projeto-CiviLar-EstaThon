@@ -18,5 +18,9 @@ Muitos moradores possuem habilidades práticas (pedreiros, eletricistas, diarist
 💬 Comunicação & ConfiançaContato direto entre vizinhos.Sistema de avaliações, feedbacks e histórico de serviços prestados.
 
 🎨 Identidade VisualNossa paleta foi escolhida para refletir os valores da marca:Verde Vibrante: Crescimento, sustentabilidade e comunidade.Preto Sólido: Profissionalismo e segurança.Branco Puro: Clareza e facilidade de navegação.
+/
+💻 Tecnologias UtilizadasEditor: Windsurf (com Cascade IA)Versionamento: Git & GitHubFoco: Mobile (iOS e Android)
 
-💻 Tecnologias UtilizadasEditor: Windsurf (com Cascade IA)Versionamento: Git & GitHubFoco: Mobile (iOS e Android)📈 Estratégia de CrescimentoRecrutamento: Contato direto com prestadores locais.Ativação: Lançamento para solicitantes após base de serviços formada.Monetização (Fase 2): Destaque de perfil, selos premium e anúncios de negócios locais.👥 Equipe & CréditosDesenvolvido com foco em impacto social e inovação urbana durante o EstaThon.
+📈 Estratégia de CrescimentoRecrutamento: Contato direto com prestadores locais.Ativação: Lançamento para solicitantes após base de serviços formada.Monetização (Fase 2): Destaque de perfil, selos premium e anúncios de negócios locais.
+
+👥 Equipe & CréditosDesenvolvido com foco em impacto social e inovação urbana durante o EstaThon.
