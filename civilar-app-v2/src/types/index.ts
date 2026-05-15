@@ -40,4 +40,4 @@ export interface DadosIBGE {
   fonte: string;
 }
 
-export type Page = 'welcome' | 'home' | 'explorar' | 'cadastrar' | 'dados' | 'perfil' | 'prestador';
+export type Page = 'welcome' | 'login' | 'home' | 'explorar' | 'mapa' | 'cadastrar' | 'portfolio' | 'dados' | 'referral' | 'perfil' | 'prestador' | 'avaliacoes' | 'privacidade' | 'chat-list' | 'chat' | 'assinatura' | 'publicar' | 'meus-servicos' | 'dashboard';

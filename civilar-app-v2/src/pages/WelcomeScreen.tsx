@@ -7,7 +7,27 @@ interface Props {
 export default function WelcomeScreen({ onEnter }: Props) {
   return (
     <div className="welcome-screen">
-      <img src="/logo-civilar.png?v=2" alt="CiviLar" style={{ width: '120px', height: '120px', objectFit: 'contain', marginBottom: '28px', filter: 'drop-shadow(0 8px 24px rgba(42,161,138,0.3))' }} />
+      <div style={{ 
+        width: '160px', 
+        height: '160px', 
+        borderRadius: '50%',
+        background: 'white',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        marginBottom: '32px',
+        boxShadow: '0 16px 48px rgba(42,161,138,0.4)'
+      }}>
+        <img 
+          src="/logo-civilar.png?v=2" 
+          alt="CiviLar" 
+          style={{ 
+            width: '120px', 
+            height: '120px', 
+            objectFit: 'contain' 
+          }} 
+        />
+      </div>
       <h1>CiviLar</h1>
       <p>O bairro resolve o bairro. Conectando moradores para troca de serviços com confiança e validação.</p>
 
@@ -28,10 +48,7 @@ export default function WelcomeScreen({ onEnter }: Props) {
 
       <div style={{ display: 'flex', flexDirection: 'column', gap: '12px', width: '100%', maxWidth: '320px' }}>
         <button className="btn btn-primary" onClick={onEnter}>
-          Encontrar serviço
-        </button>
-        <button className="btn btn-outline" onClick={onEnter} style={{ borderColor: 'rgba(255,255,255,0.3)', color: 'white' }}>
-          Cadastrar meu serviço
+          ENTRAR
         </button>
       </div>
       <p className="text-xs" style={{ color: 'rgba(255,255,255,0.4)', marginTop: '24px' }}>Projeto FIAP · EstaTHon 2026</p>

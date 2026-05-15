@@ -1,5 +1,5 @@
-import { dadosIBGE, referencias } from '../data';
-import { ArrowLeft, ExternalLink } from 'lucide-react';
+import { dadosIBGE } from '../data';
+import { ArrowLeft } from 'lucide-react';
 
 interface Props {
   onBack: () => void;
@@ -68,20 +68,6 @@ export default function DadosScreen({ onBack }: Props) {
           ))}
         </div>
       </div>
-
-      <h2 className="text-lg font-bold mb-3 mt-4">Referências Reais</h2>
-      {referencias.map(ref => (
-        <div key={ref.nome} className="card ref-card">
-          <h4 className="font-semibold text-sm">{ref.nome}</h4>
-          <p className="text-sm text-secondary mb-2">{ref.descricao}</p>
-          <div className="service-tags">
-            {ref.tags.map(t => <span key={t} className="badge badge-service">{t}</span>)}
-          </div>
-          <a href={ref.link} target="_blank" rel="noopener noreferrer" className="text-sm text-primary font-semibold" style={{ display: 'inline-flex', alignItems: 'center', gap: '4px', marginTop: '12px' }}>
-            Acessar referência <ExternalLink size={14} />
-          </a>
-        </div>
-      ))}
     </div>
   );
 }

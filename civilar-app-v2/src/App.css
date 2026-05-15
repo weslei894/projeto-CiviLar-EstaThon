@@ -123,6 +123,7 @@
   position: fixed; bottom: 0; left: 0; right: 0; max-width: 480px; margin: 0 auto;
   background: var(--navy);
   display: flex; justify-content: space-around; align-items: center;
+  padding: 0 16px;
   padding: 8px 0 calc(8px + env(safe-area-inset-bottom));
   z-index: 1000;
 }
@@ -141,9 +142,9 @@
   width: 48px; height: 48px;
   background: var(--primary); border-radius: 50%;
   display: flex; align-items: center; justify-content: center;
-  color: white; margin-top: -20px;
-  border: 3px solid var(--navy);
   box-shadow: 0 4px 12px rgba(42,161,138,0.4);
+  color: white;
+  border: 3px solid var(--navy);
   transition: var(--transition);
 }
 
